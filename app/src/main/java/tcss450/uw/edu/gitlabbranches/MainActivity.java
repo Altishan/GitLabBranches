@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, DisplayAndyActivity.class);
         startActivity(intent);
     }
+
+    public void displayCaseyActivity(View view) {
+        Intent caseyIntent = new Intent(this, DisplayCaseyActivity.class);
+        startActivity(caseyIntent);
+    }
 }
