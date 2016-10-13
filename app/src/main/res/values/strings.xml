@@ -2,4 +2,6 @@
     <string name="app_name">GitLabBranches</string>
     <string name="andy_joke">Vote now on your phones!</string>
     <string name="andy_didthething">It did the thing. </string>
+    <string name="casey_activity">Make Coding Great Again!</string>
+    <string name="casey_button">Vote Casey</string>
 </resources>
